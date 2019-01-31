@@ -1,30 +1,15 @@
 createdAt: "2019-01-29T13:10:32.232Z"
-updatedAt: "2019-01-31T20:23:31.712Z"
+updatedAt: "2019-01-31T21:25:10.926Z"
 type: "MARKDOWN_NOTE"
 folder: "a9f7e17827b54e07c9ea"
-title: "💬 Transfer Notes: Speed & Fluidity"
+title: "💬 Transfer: Sketch Keybindings"
 tags: [
   "Transfer_Session"
 ]
 content: '''
-  # 💬 Transfer Notes: Speed & Fluidity
+  # 💬 Transfer: Sketch Keybindings
   
-  ## Organization 
-  ### File organization
-  1. Google Drive Template
-  2. Simple Naming Convension
-  3. Setup Abstract Project
-  4. Setup Invision Project
-  5. Gather brand assets
-  
-  __________________________________________________
-  
-  ### Plugins
-  1. Runner
-  2. Rename it
-  
-  __________________________________________________
-  
+  A few of my personal keyboard shortcuts to speed up my workflow. This assumes you have remapped your "Caps Lock" to "Control". 
   
   ### Bindings / Remappings
   
